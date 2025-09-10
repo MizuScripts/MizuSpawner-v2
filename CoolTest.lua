@@ -1,5 +1,5 @@
 -- 🔹 Script Toggle
-local Enabled = false
+local Enabled = true
 
 local DiscordLink = "https://discord.gg/yourdiscord" -- Your Discord link for kick
 
